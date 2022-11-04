@@ -2,6 +2,13 @@
   "bkc": {
     "punk": 1.0,
     "esb": 3.125,
-    "dbtc": 20000
+    "dbtc": 20000,
+    "cwep": 1,
+    "carmor": 1,
+    "cacc": 1,
+    "bframe": 1,
+    "eshard": 1,
+    "askin": 1,
+    "sshard": 1
   }
 }

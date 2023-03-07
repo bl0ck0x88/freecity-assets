@@ -12,6 +12,8 @@
     "sshard": 1,
     "capsule": 1,
     "frystal": 6.5,
-    "dm": 1
+    "dm": 1,
+    "start": 1,
+    "mxy": 1
   }
 }
